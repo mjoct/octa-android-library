@@ -1,0 +1,3 @@
+include ':myutility'
+include ':app'
+rootProject.name = "MyUtilApp"
